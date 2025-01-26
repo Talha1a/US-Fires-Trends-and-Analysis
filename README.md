@@ -2,7 +2,7 @@
 ![Dashboard Overview](https://github.com/Talha1a/US-Fires-Trends-and-Analysis/blob/main/Final%20dashboard.png)
 
 ## Project Overview
-This project aims to analyze trends, causes, and impacts of fires in the United States using a dataset obtained from Government's Data site. The analysis includes data cleaning and visualization in Python, querying and extracting insights using SQL, and creating an interactive dashboard using Power BI.
+This project aims to analyze trends, causes, and impacts of fires in the United States using a dataset obtained from Government's Data site. The analysis includes data cleaning and visualization in Python, querying and extracting insights using PostGreSQL, and creating an interactive dashboard using Power BI.
 
 ---
 
@@ -35,7 +35,7 @@ This project aims to analyze trends, causes, and impacts of fires in the United 
 5. **Export Cleaned Data:**
    - Saved the cleaned dataset to a new CSV file for SQL and Power BI integration.
 
-### 2. SQL for Data Analysis
+### 2. PostGreSQL for Data Analysis
 
 **Database:** PostgreSQL  
 **Steps:**
